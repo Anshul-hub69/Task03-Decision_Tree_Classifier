@@ -48,8 +48,5 @@ You can find it here: [Bank Marketing Dataset](https://archive.ics.uci.edu/ml/da
 
 ---
 
-## 🚀 How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/decision-tree-bank-marketing.git
+
 
